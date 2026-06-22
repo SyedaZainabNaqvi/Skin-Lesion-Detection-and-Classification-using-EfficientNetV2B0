@@ -1,4 +1,4 @@
-# Skin Lesion Detection and Classification using EfficientNetV2B0
+# Skin Lesion Detection and Classification using EfficientNetV2B0 COMPUTER VISION
 
 This project presents an automated skin lesion detection and classification system using deep learning. The model classifies dermoscopic skin lesion images into multiple categories using the ISIC skin cancer dataset.
 
